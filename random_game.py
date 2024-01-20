@@ -24,5 +24,5 @@ while True:
     if answer == "да":
         continue
     else:
-        print("Возвращайся если возникнут вопросы!")
+        print("Возвращайся, если возникнут вопросы!")
         break
